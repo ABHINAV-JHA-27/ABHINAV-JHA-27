@@ -14,12 +14,14 @@
 
 <a href="https://www.linkedin.com/in/abhinav-jha-568904202/">
     <img align="left" src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/linkedin.png" height="7%" ; width="7%" ; margin-left:20px;></img></a>
-      
-<a href="https://codeforces.com/profile/DARK_DRACULA">
-  <img src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/twitter.png" height="8%" ; width="8%" ; margin-left:20px;></img></a>
-  
+     
+     
 <a href="https://leetcode.com/ABHINAV-JHA-27/">
   <img src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/leetcode.png" height="20%"; width="20%" ;></img></a>
+  
+  
+<a href="https://codeforces.com/profile/DARK_DRACULA">
+  <img src="https://github.com/ABHINAV-JHA-27/ABHINAV-JHA-27/blob/main/icon/codeforces.svg" height="8%" ; width="8%" ; margin-left:20px;></img></a>
   
   ## Visitors
  <img src="https://komarev.com/ghpvc/?username=ABHINAV-JHA-27" width=160px/>
