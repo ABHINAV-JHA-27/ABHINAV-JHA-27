@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abhinav, a Software Developer who loves experimenting 🚀</div>  
   
 
-- 🔭 I’m currently working at [Quickiii](https://veerjiretail.com/)  
+- 🔭 I’m currently working at SugarLabs on My Gsoc Project
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
