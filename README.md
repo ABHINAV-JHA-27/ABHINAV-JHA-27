@@ -4,7 +4,7 @@
 
 💻 Currently I am Gsoc Contributer at SugarLabs, and I am working on Music Blocks v4 will revolutionize the way children and beginners learn programming.
 
-📚 During my internship at Quickiii, a tech startup, I honed my skills by working on the development and maintenance of the Buyer and Seller Apps. My primary focus was on Cross-Platform Mobile Development, utilizing React Native to maintain the Android and iOS apps for both Buyers and Sellers.
+📚 During my internship at Quickiii, a saas based startup, I honed my skills by working on the development and maintenance of the Buyer and Seller Apps. My primary focus was on Cross-Platform Mobile Development, utilizing React Native to maintain the Android and iOS apps for both Buyers and Sellers.
 
 🚀 In terms of open-source contribution, I've been contributing to SugarLabs Recently and plan to continue doing so.
 
